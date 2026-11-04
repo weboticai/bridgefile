@@ -1,0 +1,18 @@
+PONTE — transferência de arquivos pela rede local
+
+1. Extraia o ZIP inteiro.
+2. No Windows com Node.js instalado, abra Abrir-Ponte.bat.
+3. Na mesma rede Wi-Fi, escaneie o QR Code com a câmera do celular.
+4. Escolha os arquivos e aguarde a confirmação.
+
+Os arquivos ficam em Ponte - Recebidos, dentro do seu perfil do Windows.
+Mantenha a janela do Ponte aberta durante o envio.
+Se houver vários adaptadores, selecione aquele conectado ao roteador.
+Se o Windows pedir acesso à rede, permita na rede privada.
+Se a página do PC não abrir, acesse o endereço mostrado na janela do Ponte.
+
+
+Para enviar do PC para o celular, use Enviar para o celular na tela do PC.
+No celular, abra o QR Code e toque em Baixar na lista Arquivos enviados pelo PC.
+A lista vale para a sessão atual. As cópias compartilhadas ficam na subpasta
+Compartilhados de Ponte - Recebidos.
